@@ -8,7 +8,6 @@ This folder contains assignments, reports, and documentation completed during We
 
 - CyberProAI, Cympire, and Bina Research Assignment
 - Week 02 Work Report
-- GitHub Portfolio Assignment
 
 ### Skills Developed
 
