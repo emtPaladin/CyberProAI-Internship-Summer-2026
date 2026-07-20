@@ -4,7 +4,7 @@
 This folder contains the official weekly reports, career readiness assets, and documentation completed during Week 04 of the CyberProAI Summer 2026 Internship.
 
 ## Deliverables
-- **[Week_04_Work_Report.pdf](Week_04_Work_Report.pdf)**: Formal weekly progress report containing the Bottom Line Up Front (BLUF), internship activities summary, key guidance, and a comprehensive progress snapshot.
+- **[Week04WorkReport.pdf](Week_04_Work_Report.pdf)**: Formal weekly progress report containing the Bottom Line Up Front (BLUF), internship activities summary, key guidance, and a comprehensive progress snapshot.
 - **[Week_04_Resume.pdf](Week_04_Resume.pdf)**: Professionally tailored, ATS-friendly cybersecurity resume updated to reflect internship experience, technical skills, cybersecurity education, and ongoing professional development.
 
 ## Technical Skills & Portfolio Progression
